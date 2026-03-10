@@ -1,4 +1,4 @@
-package student.maneger.student.manager;
+package studentManager;
 
 import java.util.List;
 import org.apache.ibatis.annotations.Mapper;

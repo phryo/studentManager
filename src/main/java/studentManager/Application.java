@@ -1,4 +1,4 @@
-package student.maneger.student.manager;
+package studentManager;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
