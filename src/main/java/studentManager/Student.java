@@ -1,4 +1,4 @@
-package student.maneger.student.manager;
+package studentManager;
 
 import lombok.Getter;
 import lombok.Setter;
