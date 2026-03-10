@@ -1,4 +1,4 @@
-package studentManager;
+package studentManager.data;
 
 import java.util.Date;
 import lombok.Getter;

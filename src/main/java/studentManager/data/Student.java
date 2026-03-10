@@ -1,4 +1,4 @@
-package studentManager;
+package studentManager.data;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -6,7 +6,7 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Student {
-    private String ID;
+    private String id;
     private String name;
     private String furigana;
     private String nickname;
